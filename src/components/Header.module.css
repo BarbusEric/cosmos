@@ -1,0 +1,38 @@
+.nav {
+  background-color: #141922;
+}
+
+.container {
+  margin: 0 18.7%;
+}
+
+.icon {
+  margin: 0 10% 0 -130%;
+}
+
+.countainer {
+  display: flex;
+}
+
+.container a {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15.729px;
+  line-height: 18px;
+
+  color: #a9b5cc;
+}
+
+.brand {
+  margin-left: 3rem !important;
+  margin-right: 1.5rem !important;
+
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35.861px;
+  line-height: 41.2px;
+
+  color: #a9b5cc;
+}

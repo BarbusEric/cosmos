@@ -1,0 +1,124 @@
+.carousel {
+  display: flex;
+  margin: 50px 10% 0px 10%;
+  padding: 0px 12%;
+}
+
+.carousel_caption {
+  height: 100%;
+  position: unset;
+  padding: 0px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 30%;
+}
+
+.carousel_image {
+  width: 65%;
+  height: 420px;
+}
+
+.text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 20px;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+  color: #a9b5cc;
+  text-align: left;
+}
+
+.text p,
+h4,
+h5 {
+  margin: auto;
+  text-align: left;
+}
+
+.text h4,
+h5 {
+  font-size: 16px;
+}
+
+.information_container {
+  text-align: left;
+}
+
+.container {
+  height: 100%;
+  width: 35%;
+  position: absolute;
+  right: 0;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  padding-top: 20px;
+  border: 1px solid #181d26;
+  background-color: #2d333d;
+}
+
+.container p {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 25px;
+  color: #a9b5cc;
+}
+
+.price {
+  border: 1px solid #181d26;
+  background-color: #272b35;
+  border-radius: 5%;
+  margin: 20px 20px;
+  height: 20%;
+  width: 90%;
+}
+
+.price strong {
+  align-items: center;
+  vertical-align: middle;
+}
+
+.price p {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 35px;
+  margin-top: 12px;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #a9b5cc;
+  height: 100%;
+}
+
+.button {
+  margin: 0% 0% 15% 65%;
+  background: #46c351;
+}
+
+.container_container p {
+  margin: -15% -26% -10% 0%;
+}
+
+.countainer {
+  margin: 3% 65% -15% 0%;
+}
+
+.countainer strong {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  color: #a9b5cc;
+  font-size: 29px;
+  margin: 0% -20% 0% 0%;
+}

@@ -1,0 +1,20 @@
+footer {
+  background-color: #141922;
+  height: 8vh;
+  padding-left: 175px;
+  padding-top: 10px;
+}
+
+footer p {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12.5px;
+  line-height: 14px;
+
+  color: #a9b5cc;
+}
+
+.container {
+  margin: 0 13%;
+}
