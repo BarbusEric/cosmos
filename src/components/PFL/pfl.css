@@ -20,6 +20,7 @@
 }
 .pfl_darkContainer h1 {
   font-size: 1rem;
+  margin: 0;
 }
 
 .pfl_darkContainer > img {
@@ -33,6 +34,11 @@
   border-bottom: 1px solid #3a424e;
   margin: 15px 22%;
   padding-right: 33%;
+  width: 38%;
+}
+
+.pfl_light .title {
+  margin: 0 0 10%;
 }
 
 .pfl_container {

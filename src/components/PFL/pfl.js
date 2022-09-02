@@ -38,7 +38,7 @@ const PFL = () => {
         </div>
       </div>
       <div className="pfl_light">
-        <h1>PFL package</h1>
+        <h1 className="title">PFL package</h1>
       </div>
       <div className="pfl_paragraph">
         <p>
