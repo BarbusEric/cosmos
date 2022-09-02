@@ -35,4 +35,5 @@
   line-height: 41.2px;
 
   color: #a9b5cc;
+  pointer-events: none;
 }
